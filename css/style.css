@@ -7,6 +7,7 @@ body{
     font-family: Arial, Helvetica, sans-serif;
 }
 
+
 /* Header */
 header{
     background-image: url('../img/pattern.png');
@@ -56,3 +57,22 @@ header img{
     padding-left: 20px;
 }
 
+/* Tabella */
+
+thead tr{
+    color:white;
+    background-color: dodgerblue;
+}
+
+td{
+    width: 25%;
+}
+
+tr{
+    background-color: lightskyblue;
+}
+
+.cell-color{
+    background-color: white;
+}
+/* Tabella */
