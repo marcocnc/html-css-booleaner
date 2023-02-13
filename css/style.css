@@ -44,3 +44,15 @@ header img{
     color: lightskyblue;
 }
 
+.paragraphs{
+    padding-top:20px;
+}
+
+.important{
+    background-color: yellow;
+}
+
+.paragraphs ul{
+    padding-left: 20px;
+}
+
