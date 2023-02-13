@@ -33,7 +33,7 @@ header img{
     padding-top: 10px;
 }
 
-.title .details{
+.title .details, .title-footer{
     color: grey;
 }
 
@@ -76,3 +76,29 @@ tr{
     background-color: white;
 }
 /* Tabella */
+/* Main */
+
+
+/* Footer */
+.title-footer{
+    padding-top: 40px;
+}
+
+.footer-pic1, .footer-pic2{
+    margin-top: 20px;
+    font-size: 20px;
+    color:white;
+    padding-top:10px;
+}
+
+.footer-pic1{
+    background-image: url('../img/monitor.jpg');
+    width: 250px;
+    height: 200px;
+}
+
+.footer-pic2{
+    background-image: url('../img/graph.jpg');
+    width: 250px;
+    height: 200px;
+}
